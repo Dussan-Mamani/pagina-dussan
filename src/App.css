@@ -36,3 +36,73 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: #152838;
+}
+h1{
+  font-family: Georgia;
+  color: #FFFFFF;
+}
+h2{
+  color: #FFFFFF;
+  font-family: 'Times New Roman';
+}
+p{
+color: #FFFFFF;
+font-family: Arial;
+}
+a{
+  margin: 1%;
+}
+.a{
+  object-fit: cover;  
+}
+.b{
+  border: solid yellow 10px;
+  border-radius: 50%;
+  width: 20%;
+}
+.c{
+  border: solid  black 2px;
+  border-radius: 50%;
+  width: 5%;
+}
+.d{
+  display: inline-flex;
+  width: 30%;
+  margin: 1%;
+  border: solid rgb(252, 2, 252) 5px;
+}
+.e{
+  border: solid rgb(55, 0, 255);
+}
+.f{
+  width: 8%;
+  background-color: chartreuse;
+}
+.g{
+  border: solid lawngreen 2px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: 1%;
+}
+.h{
+  display: inline-flex;
+  margin: 1%;
+}
+.i{
+}
+button{
+  background-color: rgb(253, 1, 1);
+  color: rgb(250, 250, 1);
+  border: solid rgb(4, 250, 4) 5px;
+  border-radius: 5px;
+  width: 200px;
+  padding: 10px;
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+
