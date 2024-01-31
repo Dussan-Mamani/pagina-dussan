@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pagina-dussan/static/css/main.bd347ede.css",
+    "main.js": "/pagina-dussan/static/js/main.468bc38c.js",
+    "static/js/787.e126d6d3.chunk.js": "/pagina-dussan/static/js/787.e126d6d3.chunk.js",
+    "static/media/Dussan.png": "/pagina-dussan/static/media/Dussan.e28fa78c0ddddd0a7b60.png",
+    "static/media/NEXT_logo.png": "/pagina-dussan/static/media/NEXT_logo.280b2f45ec2067caa27e.png",
+    "static/media/redes.png": "/pagina-dussan/static/media/redes.e81a9f0f440e556bb6d0.png",
+    "static/media/java-logo-1.png": "/pagina-dussan/static/media/java-logo-1.fdabd4e11f1235e4e8e0.png",
+    "static/media/NetBeans.png": "/pagina-dussan/static/media/NetBeans.935e36b3defb67faa6ea.png",
+    "static/media/Cisco-Packet-Tracer.png": "/pagina-dussan/static/media/Cisco-Packet-Tracer.07cabb8d91e23b1cae8c.png",
+    "static/media/Facebook_Logo_2023.png": "/pagina-dussan/static/media/Facebook_Logo_2023.790642551cd99bb66a7e.png",
+    "static/media/Proteus.png": "/pagina-dussan/static/media/Proteus.b860c8dfed9355af1569.png",
+    "static/media/react1.png": "/pagina-dussan/static/media/react1.88d5c8b167e185fd4c7a.png",
+    "static/media/logo-eclipse.png": "/pagina-dussan/static/media/logo-eclipse.9463333197ef14f5ce42.png",
+    "static/media/logo.svg": "/pagina-dussan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Bottom Alignment.svg": "/pagina-dussan/static/media/Bottom Alignment.c2d43fcb8570b8d6078b5d0617029cb1.svg",
+    "index.html": "/pagina-dussan/index.html",
+    "main.bd347ede.css.map": "/pagina-dussan/static/css/main.bd347ede.css.map",
+    "main.468bc38c.js.map": "/pagina-dussan/static/js/main.468bc38c.js.map",
+    "787.e126d6d3.chunk.js.map": "/pagina-dussan/static/js/787.e126d6d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd347ede.css",
+    "static/js/main.468bc38c.js"
+  ]
+}
