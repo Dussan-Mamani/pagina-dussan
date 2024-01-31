@@ -13,6 +13,7 @@ import Redes from "./img/redes.png"
 import Visual from "./img/Visual-Studio-Code.png"
 import next from "./img/NEXT_logo.png"
 import eclipse from "./img/logo-eclipse.png"
+import postman from "./img/postman.png"
 export const Perfil = () => {
   return (
 <div>
@@ -57,6 +58,8 @@ export const Perfil = () => {
     <div className='h'><a href='https://sourceforge.net/projects/next-js.mirror/'><button> Descargar Next <img className='f' src={Alignment} /></button></a></div>
     <div className='h'><img className='g' src={react1}/></div>
     <div className='h'><a href='https://nodejs.org/en?fbclid=IwAR16j2E2KYzXfxnoIcqnelsmQK-Xs1DnBtIFR2A3u4Vr9SQMkP5y7GQc87Q'><button> Descargar React <img className='f' src={Alignment} /></button></a></div>
+    <div className='h'><img className='g' src={postman}/></div>
+    <div className='h'><a href='https://www.postman.com/downloads/'><button> Descargar Postman <img className='f' src={Alignment} /></button></a></div>
     
 </div>
 </div>
