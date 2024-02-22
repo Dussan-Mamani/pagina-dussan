@@ -41,7 +41,7 @@ export const Perfil = () => {
     
 <div>
     <div className='h'><img className='g' src={java}/></div>
-    <div className='h'><a href='https://www.java.com/es/download/'><button> Descargar java <img className='f' src={Alignment} /></button></a></div>
+    <div className='h'><a href='https://www.java.com/es/download/'><button> Descargar jdk java <img className='f' src={Alignment} /></button></a></div>
     <div className='h'><img className='g' src={netBeans}/></div>
     <div className='h'><a href='https://filehippo.com/es/download_netbeans/8.2/'><button> Descargar NetBeans <img className='f' src={Alignment} /></button></a></div>
     <div className='h'><img className='g' src={eclipse}/></div>

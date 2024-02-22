@@ -37,6 +37,7 @@
   }
 }
 body{
+  background-image: url(https://i.gifer.com/Nv2.gif);
   background-color: #152838;
 }
 h1{
@@ -60,12 +61,12 @@ a{
 .b{
   border: solid yellow 10px;
   border-radius: 50%;
-  width: 20%;
+  width: 25%;
 }
 .c{
   border: solid  black 2px;
   border-radius: 50%;
-  width: 5%;
+  width: 6%;
 }
 .d{
   display: inline-flex;
@@ -104,5 +105,12 @@ button{
 }
 div{
   text-align: center;
+}
+.des{
+  color: #FFFFFF;
+  font-family: Georgia;
+}
+.du{
+  font-family: Georgia;
 }
 
