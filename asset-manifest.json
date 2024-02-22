@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pagina-dussan/static/css/main.db51b10d.css",
+    "main.css": "/pagina-dussan/static/css/main.5bfa2adb.css",
     "main.js": "/pagina-dussan/static/js/main.3ba85481.js",
     "static/js/787.e126d6d3.chunk.js": "/pagina-dussan/static/js/787.e126d6d3.chunk.js",
     "static/media/Dussan.png": "/pagina-dussan/static/media/Dussan.e28fa78c0ddddd0a7b60.png",
@@ -17,12 +17,12 @@
     "static/media/logo.svg": "/pagina-dussan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/Bottom Alignment.svg": "/pagina-dussan/static/media/Bottom Alignment.c2d43fcb8570b8d6078b5d0617029cb1.svg",
     "index.html": "/pagina-dussan/index.html",
-    "main.db51b10d.css.map": "/pagina-dussan/static/css/main.db51b10d.css.map",
+    "main.5bfa2adb.css.map": "/pagina-dussan/static/css/main.5bfa2adb.css.map",
     "main.3ba85481.js.map": "/pagina-dussan/static/js/main.3ba85481.js.map",
     "787.e126d6d3.chunk.js.map": "/pagina-dussan/static/js/787.e126d6d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db51b10d.css",
+    "static/css/main.5bfa2adb.css",
     "static/js/main.3ba85481.js"
   ]
 }
