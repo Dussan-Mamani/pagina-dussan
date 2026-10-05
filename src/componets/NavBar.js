@@ -6,7 +6,9 @@ export const NavBar = () => {
         <nav>
         <Link to={"/"}><h2 className='du'>DUSSAN</h2></Link>
          <ul className='nav-list'>
-         <Link to={"/descargar"}><li className='des'><h2>SIGUIENTE PAGINA</h2></li></Link>
+         <li className='des'>
+         <Link to={"/descargar"}><h2>SIGUIENTE PAGINA</h2></Link>
+         </li>
          </ul>
         </nav>
   )
