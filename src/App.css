@@ -47,6 +47,10 @@ h2{
   color: #FFFFFF;
   font-family: 'Times New Roman';
 }
+h4{
+  color: #FFFFFF;
+  font-family: 'Times New Roman';
+}
 p{
 color: #FFFFFF;
 font-family: Arial;
@@ -58,43 +62,47 @@ a{
   object-fit: cover;  
 }
 .b{
-  border: solid yellow 10px;
+  border: solid rgb(13, 231, 202) 10px;
   border-radius: 50%;
   width: 25%;
 }
 .c{
-  border: solid  black 2px;
+  border: solid  rgb(2, 250, 2) 2px;
   border-radius: 50%;
   width: 6%;
 }
 .d{
   display: inline-flex;
-  width: 30%;
+  width: 50%;
   margin: 1%;
-  border: solid rgb(252, 2, 252) 5px;
+  border: solid rgb(10, 252, 2) 8px;
 }
 .e{
-  border: solid rgb(55, 0, 255);
+  display: inline;
+  margin: 1%;
+  border: solid rgb(255, 251, 0);
 }
 .f{
-  width: 8%;
-  background-color: chartreuse;
+  background-image: url(https://i.gifer.com/1j64.gif);
+  color: rgb(250, 250, 1);
+  border: solid rgb(2, 248, 248) 2px;
+  
 }
 .g{
-  border: solid lawngreen 2px;
+  background-image: url(https://i.gifer.com/747m.gif);
+  border: solid rgb(2, 248, 23) 2px;
   width: 300px;
   height: 300px;
   object-fit: cover;
   margin: 1%;
 }
 .h{
-  display: inline-flex;
+  display:inline;
   margin: 1%;
 }
-.i{
-}
+
 button{
-  background-color: rgb(253, 1, 1);
+  background-image: url(https://i.gifer.com/1j64.gif);
   color: rgb(250, 250, 1);
   border: solid rgb(4, 250, 4) 5px;
   border-radius: 5px;
@@ -105,11 +113,21 @@ button{
 div{
   text-align: center;
 }
+img{
+padding: 5px;
+}
 .des{
   color: #FFFFFF;
   font-family: Georgia;
 }
 .du{
+  background-image: url(https://i.gifer.com/1j64.gif);
+  color: rgb(250, 250, 1);
+  border: solid rgb(4, 250, 4) 5px;
+  border-radius: 5px;
+  width: 220px;
+  padding: 10px;
+  text-align: center;
   font-family: Georgia;
 }
 

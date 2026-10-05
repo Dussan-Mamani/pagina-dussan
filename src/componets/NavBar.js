@@ -4,12 +4,12 @@ import { Link } from 'react-router-dom'
 export const NavBar = () => {
   return (
         <nav>
-        <Link to={"/"}><h2 className='du'>DUSSAN</h2></Link>
-         <ul className='nav-list'>
-         <li className='des'>
-         <Link to={"/descargar"}><h2>SIGUIENTE PAGINA</h2></Link>
-         </li>
-         </ul>
+        <Link to={"/"}><h3 className='du'>DUSSAN</h3></Link>
+         
+         
+         <Link to={"/descargar"}><h3 className='du'>PAGINA SIGUIENTE</h3></Link>
+
+       
         </nav>
   )
 }
